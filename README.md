@@ -1,4 +1,1 @@
-# CaRSA
-Shared work for CaRSA
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-dcfp/CaRSA/HEAD)
+# This repository has been archived. The new CaRSA repository can be found [here](https://github.com/ClimResAus/prelim).
